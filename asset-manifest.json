@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wonderman/static/css/main.d9dac5ca.chunk.css",
+    "main.js": "/wonderman/static/js/main.83a2f811.chunk.js",
+    "main.js.map": "/wonderman/static/js/main.83a2f811.chunk.js.map",
+    "runtime-main.js": "/wonderman/static/js/runtime-main.c8800421.js",
+    "runtime-main.js.map": "/wonderman/static/js/runtime-main.c8800421.js.map",
+    "static/js/2.72a73ad8.chunk.js": "/wonderman/static/js/2.72a73ad8.chunk.js",
+    "static/js/2.72a73ad8.chunk.js.map": "/wonderman/static/js/2.72a73ad8.chunk.js.map",
+    "static/js/3.7b12c8a1.chunk.js": "/wonderman/static/js/3.7b12c8a1.chunk.js",
+    "static/js/3.7b12c8a1.chunk.js.map": "/wonderman/static/js/3.7b12c8a1.chunk.js.map",
+    "index.html": "/wonderman/index.html",
+    "static/css/main.d9dac5ca.chunk.css.map": "/wonderman/static/css/main.d9dac5ca.chunk.css.map",
+    "static/js/2.72a73ad8.chunk.js.LICENSE.txt": "/wonderman/static/js/2.72a73ad8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8800421.js",
+    "static/js/2.72a73ad8.chunk.js",
+    "static/css/main.d9dac5ca.chunk.css",
+    "static/js/main.83a2f811.chunk.js"
+  ]
+}
